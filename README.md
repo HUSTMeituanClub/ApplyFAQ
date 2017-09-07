@@ -1,2 +1,7 @@
-# ApplyFAQ
-F(requently)A(sked)Q(uestion) freshmenber asks when they apply for our club
+# 招新FAQ
+
+注意 问题请使用三级标题 回答使用正文
+
+### 加入美团俱乐部要有什么基础吗?
+
+答：招新主要考察的是你对技术的热情。只要不是三分钟热度，通过招新测试的概率还是很大的。
